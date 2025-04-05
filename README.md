@@ -4,13 +4,6 @@
 
 Moodify is a Python-based API that provides song recommendations tailored to different moods. Users can specify their mood through an HTTP GET request, and the API will respond with a curated list of songs. The project is designed to bring joy, inspiration, or comfort to users by matching music with their emotional states.
 
-## Team Members
-
-1. Sakshi Sunil Satpute
-2. Ashutosh Jaykumar Ghodke
-3. Mayur Manik Pande
-4. Pratik Ashok Nawale
-
 ## Project Phases
 
 ### 1. Planning:
